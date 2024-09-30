@@ -1,4 +1,4 @@
-## Zero-Day Software
+## Burnt Bulb
 A simple software company by @GTLugo
 
 <!--
