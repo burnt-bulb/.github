@@ -1,5 +1,5 @@
 ## Burnt Bulb
-A simple software group owned by @GTLugo
+A simple software group owned by [@GTLugo](https://github.com/GTLugo)
 
 <!--
 
